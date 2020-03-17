@@ -13,28 +13,25 @@ def scraper
 
   job_listings = parsed_content.css('div.jobsearch-SerpJobCard')
 
-  position_array = []
+  job_info = {
+    "Company" => [],
+    "Role" => []
+  }
 
   job_title = job_listings.css('div.title').map do |x|
     position = x.text.strip
-    position_array.push(position)
+    job_info["Role"].push(position)
   end
 
-  position_hash = {}
-
-  position_array.each do |y|
-    position_hash["Roles"] = position_array
+  company_names = job_listings.css('span.company').map do |x|
+    position = x.text.strip
+    job_info["Company"].push(position)
   end
 
-# binding.pry
-
-  json = JSON.pretty_generate(position_hash)
+  json = JSON.pretty_generate(job_info)
 
   File.open('jobData.json', 'w') { |file| file.write(json)}
 
 
 end
 scraper
-
-
-#try using gsub to Globally substitute all "\n" with

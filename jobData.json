@@ -1,17 +1,32 @@
 {
-  "Roles": [
-    "Software Engineer, Node.js",
-    "Senior .Net Developer",
-    "Big Data Developer/Engineer",
-    "Senior Machine Learning Engineer – Growth",
-    "Senior SRE - Boston or Seattle",
-    "Junior Performance Engineer",
-    "Software Engineer for Embedded Systems",
-    "JAVA Software Engineer",
-    "Solution Engineer – Deployment Specialist",
-    "Apps Developer (Android & iOS)",
+  "Company": [
+    "Acquia",
+    "Siemens Medical Solutions USA, Inc.",
+    "Orange Marketing",
+    "EO of Energy and Env Affairs",
+    "Siemens Medical Solutions USA, Inc.",
+    "Intone Networks Inc",
+    "Insigma Inc",
+    "Medtronic",
+    "PRIMESOFT INC",
+    "Siemens Industry Software Inc.",
+    "Seen by Indeed",
+    "Seen by Indeed",
+    "Seen by Indeed"
+  ],
+  "Role": [
+    "Associate JavaScript Developer",
+    "Sr. Software Engineer - RTOS",
+    "Senior Software Developer",
+    "Infrastructure and Cloud Engineer",
+    "Sr. Software Engineer - Robotic Controls",
+    "ReactJS Developer",
+    "Sr. Embedded Engineer",
+    "Software Engineering Manager - Surgeon Console for Robotic S...",
+    "Business Analyst(Drupal or AEM Experience)",
+    "Senior Applications Engineer (Functional Verification, OVM /...",
     "Software Developer",
-    "ML Engineer",
-    "Software Engineer"
+    "Python Developer",
+    "Javascript Developer"
   ]
 }

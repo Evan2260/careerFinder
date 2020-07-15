@@ -1,36 +1,92 @@
-{
-  "Company": [
-    "B2B Group of Companies",
-    "Acquia",
-    "Gallega Software Solutions Inc",
-    "VMware",
-    "Fidelity Investments",
-    "Touch Ahead Software",
-    "Oneiro",
-    "Qlarion",
-    "Accrete Technologies",
-    "Infotree Service Inc",
-    "Jobot",
-    "Jobot",
-    "Deloitte",
-    "Starry",
-    "Foundation Medicine, Inc."
-  ],
-  "Role": [
-    "Senior Engineer - Software Safety",
-    "Software Engineer, Tech Lead (Drupal Cloud, Orion Mgmt UI)",
-    "Hybris Developer Remotee",
-    "High Performance Computing (HPC) and Machine Learning (ML) T...",
-    "Senior Software Engineer- Angular skills needed in BOS",
-    "Software Support Engineer",
-    "Software Engineer – Applications",
-    "Data Engineer",
-    "Java Developers",
-    "UI/ UX Developer",
-    "Full Stack Developer",
-    "DevOps Engineer",
-    "Java Developer (Microservices/Angular/React) - Senior Consul...",
-    "Software Engineer, Node.js",
-    "Software Engineer"
-  ]
-}
+[
+  {
+    "company": "\nCastalune LLC",
+    "position": "\n\nSoftware Engineer I (Entry-Level)\n\nnew",
+    "location": "Boston, MA 02210 (South Boston area)",
+    "salary": "\n$65,000 - $70,000 a year"
+  },
+  {
+    "company": "\n\nDataDog",
+    "position": "\n\nSoftware Engineer\n\nnew",
+    "location": "Boston, MA",
+    "salary": ""
+  },
+  {
+    "company": "\n\nClarivate Analytics",
+    "position": "\n\nSoftware Engineer\n\nnew",
+    "location": "Boston, MA 02210 (South Boston area)",
+    "salary": ""
+  },
+  {
+    "company": "\n\nArchetype",
+    "position": "\n\nSoftware Developer/Implementation Consultant\n\nnew",
+    "location": "Boston, MA 02114 (West End area)",
+    "salary": ""
+  },
+  {
+    "company": "\nTrueMotion",
+    "position": "\n\nMobile Engineering Intern\n\nnew",
+    "location": "Boston, MA 02111 (Leather District area)",
+    "salary": ""
+  },
+  {
+    "company": "\n\nAmwell",
+    "position": "\n\nFull Stack Java Developer\n\nnew",
+    "location": "Boston, MA 02109 (Downtown area)",
+    "salary": ""
+  },
+  {
+    "company": "\n\nChewy",
+    "position": "\n\nStaff Software Engineer\n\nnew",
+    "location": "Boston, MA 02210 (South Boston area)",
+    "salary": ""
+  },
+  {
+    "company": "\n\nJohn Hancock",
+    "position": "\n\nLead Back-End Software Engineer\n\nnew",
+    "location": "Boston, MA",
+    "salary": ""
+  },
+  {
+    "company": "\nBigR.io",
+    "position": "\n\nSr. Oracle Engineer/ Developer\n\nnew",
+    "location": "Boston, MA",
+    "salary": ""
+  },
+  {
+    "company": "\n\nAmwell",
+    "position": "\n\nAndroid Developer\n\nnew",
+    "location": "Boston, MA 02109 (Downtown area)",
+    "salary": ""
+  },
+  {
+    "company": "\nBigR.io",
+    "position": "\n\nSr. Oracle/ Java Performance Engineer\n\nnew",
+    "location": "Boston, MA",
+    "salary": "\n$75 - $100 an hour"
+  },
+  {
+    "company": "\n\nAmwell",
+    "position": "\n\niOS Developer\n\nnew",
+    "location": "Boston, MA 02109 (Downtown area)",
+    "salary": ""
+  },
+  {
+    "company": "\n\nO'Reilly Media",
+    "position": "\n\nSr Cloud Engineer\n\nnew",
+    "location": "Boston, MA 02111 (Downtown Crossing area)",
+    "salary": ""
+  },
+  {
+    "company": "\nGroe Advisors",
+    "position": "\n\nSenior PHP Developer\n\nnew",
+    "location": "Boston, MA 02110 (North End area)",
+    "salary": "\n$100,000 - $150,000 a year"
+  },
+  {
+    "company": "\nEfortles Inc",
+    "position": "\n\nFront End Developer Intern\n\nnew",
+    "location": "Boston, MA",
+    "salary": ""
+  }
+]

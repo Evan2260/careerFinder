@@ -2,19 +2,10 @@ require 'nokogiri'
 require 'httparty'
 require 'pry'
 
-#Remember to run chruby 2.6.5
-# Data needed:
-# - company
-# - position/Role
-# - Location
-# - Summary
-# - salary
-
-# pineco
-# steelix
+languages = ['ruby', 'rails', 'javaScript', 'react', 'postgresql']
 
 def scraper
-  url = "https://www.indeed.com/jobs?q=Software+Engineer&l=Boston%2C+MA&rbl=Boston%2C+MA&jlid=e167aeb8a259bcac&fromage=last&sort=date"
+  url = "https://www.indeed.com/jobs?q=Software%20Engineer&l=Boston%2C%20MA&rbl=Boston%2C%20MA&jlid=e167aeb8a259bcac&sort=date&vjk=04ef7a50c33007f7"
   page_content = HTTParty.get(url)
   parsed_content = Nokogiri::HTML(page_content)
   job_listings = parsed_content.css('div.jobsearch-SerpJobCard')
@@ -24,6 +15,12 @@ def scraper
   job_role = job_listings.css('h2.title')
   job_location = job_listings.css('span.accessible-contrast-color-location')
   job_salary = job_listings.css('span.salaryText')
+  job_link = job_role.css('a')[0].attributes['href'].value
+
+  # job_link.map do
+  #
+  # end
+
 
   jobs = Array.new
 
@@ -32,9 +29,12 @@ def scraper
       company: element.css('span.company').text,
       position: element.css('h2.title').text,
       location: element.css('span.accessible-contrast-color-location').text,
-      salary: element.css('span.salaryText').text
+      salary: element.css('span.salaryText').text,
+      age: element.css('span.date').text,
+      description: element.css('div.summary').text,
+      link: "https://www.indeed.com#{job_link}"
     }
-    jobs << job
+      jobs << job
   end
 
   json = JSON.pretty_generate(jobs)

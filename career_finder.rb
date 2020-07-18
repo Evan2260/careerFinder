@@ -17,12 +17,8 @@ def scraper
   job_salary = job_listings.css('span.salaryText')
   job_link = job_role.css('a')[0].attributes['href'].value
 
-  # job_link.map do
-  #
-  # end
-
-
   jobs = Array.new
+  array_of_links = Array.new
 
   job_listings.each do |element|
     job = {
@@ -37,10 +33,15 @@ def scraper
       jobs << job
   end
 
+  hash_job_link = job_link.map do |element|
+    puts element
+  end
+
+  binding.pry
+
   json = JSON.pretty_generate(jobs)
 
   File.open('jobData.json', 'w') { |file| file.write(json)}
 
 end
-
 scraper

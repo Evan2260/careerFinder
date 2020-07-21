@@ -1,137 +1,122 @@
 [
   {
-    "company": "\n\nAetna, a CVS Health Company",
-    "position": "\n\nSoftware Development Engineer in Test (SDET) Virtual Hiring...\n\nnew",
-    "location": "Boston, MA 02111 (Central area)",
-    "salary": "",
+    "company": "\nHuxley Financial",
+    "position": "\n\nSenior Software Engineer - Java\n\nnew",
+    "location": "Boston, MA 02109 (Central area)",
+    "salary": "\n$120,000 - $160,000 a year",
     "age": "Just posted",
-    "description": "\n \n This includes working directly with Product, Design, Development, Architects, Accessibility, Security and project stakeholders to develop and release the…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n 6+ Years of professional software development experience.\n You will be working hands on building out a real time messaging system transporting data across our…\n"
   },
   {
-    "company": "\nOptimus Ride",
-    "position": "\n\nSoftware Engineer - Full Stack\n\nnew",
-    "location": "Boston, MA 02210 (South Boston area)",
-    "salary": "",
-    "age": "Just posted",
-    "description": "\n \n Containerized/virtualized software development and deployment using Docker.\n Familiarity with the Linux ecosystem, software development experience in Linux…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
-  },
-  {
-    "company": "\n\nAetna, a CVS Health Company",
-    "position": "\n\nSenior Software Developer in Test Virtual Hiring Event\n\nnew",
-    "location": "Boston, MA 02111 (Central area)",
-    "salary": "",
-    "age": "Just posted",
-    "description": "\n \n Review final deliverables to ensure they meet expected quality standards.\n Contribute to the quality engineering activities throughout every phase of the SDLC,…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
-  },
-  {
-    "company": "\n\nState Street",
-    "position": "\n\nSenior Test Automation Engineer\n\nnew",
+    "company": "\n\nWayfair",
+    "position": "\n\nSenior Software Engineer - Front End\n\nnew",
     "location": "Boston, MA",
     "salary": "",
     "age": "Just posted",
-    "description": "\n \n We're looking for talented, experienced software QA engineer (Test Automation) with solid functional skills and a passion for testing software for Client Server…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n Write thoughtful, scalable, and performant React, CSS, and HTML code to build and test new features that our millions of customers use to browse our site every…\n"
   },
   {
-    "company": "\n\nAetna, a CVS Health Company",
-    "position": "\n\nSenior. Full Stack Developer (Node.JS/ React/Angular) - 7089...\n\nnew",
-    "location": "Boston, MA 02111 (Central area)",
+    "company": "\n\nGSN Games",
+    "position": "\n\nGame Designer\n\nnew",
+    "location": "Boston, MA 02110 (Downtown area)",
     "salary": "",
     "age": "Just posted",
-    "description": "\n \n Senior. Full Stack Developer (Node.JS/ React/Angular) - 70892BR.\n Architect Advisor - (Data Health Cloud) - 67846BR.\n Principal SDET - Mobile Test Automation.\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n Clearly communicate every detail of the game’s design to the team.\n Take on cash tournaments and help transform real-money gaming with WorldWinner.com and the…\n"
   },
   {
-    "company": "\n\nAetna, a CVS Health Company",
-    "position": "\n\nPrincipal Full Stack Developer (React/ Angular/ Node/ Java)...\n\nnew",
-    "location": "Boston, MA 02111 (Central area)",
+    "company": "\n\nGrubhub Holdings, Inc.",
+    "position": "\n\nSr. Site Reliability Engineer\n\nnew",
+    "location": "Boston, MA 02110 (Downtown area)",
     "salary": "",
     "age": "Just posted",
-    "description": "\n \n Demonstrates ability to remove problems and overcome roadblocks during the project.\n Senior. Full Stack Developer (Node.JS/ React/Angular) - 70892BR.\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n Experience being embedded withing a Software Engineering team.\n Identifying and addressing shortcomings in our infrastructure.\n"
   },
   {
-    "company": "\n\nMassMutual",
-    "position": "\n\nAWS Cloud DevOps Engineer\n\nnew",
-    "location": "Boston, MA",
-    "salary": "",
-    "age": "Just posted",
-    "description": "\n \n Â The Engineer would work with the Enterprise AWS COE focusing on the day-to-day tasks of managing and maintaining AWS environments and will be hands-on…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
-  },
-  {
-    "company": "\n\nAetna, a CVS Health Company",
-    "position": "\n\nSenior SDET - Mobile iOS Automated Testing Virtual Hiring Ev...\n\nnew",
-    "location": "Boston, MA 02111 (Central area)",
-    "salary": "",
-    "age": "Just posted",
-    "description": "\n \n Senior. Full Stack Developer (Node.JS/ React/Angular) - 70892BR.\n Architect Advisor - (Data Health Cloud) - 67846BR.\n Principal SDET - Mobile Test Automation.\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
-  },
-  {
-    "company": "\n\nDataDog",
-    "position": "\n\nSoftware Engineer\n\nnew",
+    "company": "\n\nNotarize",
+    "position": "\n\nFront-End Engineer\n\nnew",
     "location": "Boston, MA",
     "salary": "",
     "age": "Today",
-    "description": "\n \n The Resilience Engineering group at Datadog focuses on improving resilience in our software and staff.\n You have architected, built, and operated distributed…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n Create engaging experiences for our users.\n Design maintainable, reusable, and clean React components.\n Interface with a GraphQL server to manipulate data.\n"
   },
   {
-    "company": "\nAnderson and Partners",
-    "position": "\n\nUI Developer\n\nnew",
+    "company": "\nStanley David and Associates",
+    "position": "\n\nFull Stack Python Developer\n\nnew",
+    "location": "Boston, MA",
+    "salary": "\n$100,000 - $110,000 a year",
+    "age": "Today",
+    "description": "\n \n Python, UI, Angular, HTML5/CSS3, or any framework React/Bootstrap.\n Micro Services framework handson experience*.\n NoSQL databases, good to have Oracle/MongoDB.\n"
+  },
+  {
+    "company": "\nFortira Inc",
+    "position": "\n\nAWS DevOps Engineer\n\nnew",
+    "location": "",
+    "salary": "\n$70 - $80 an hour",
+    "age": "Today",
+    "description": "\n \n Support and maintain CI/CD pipeline (version control, build, unit test, deploy, scanning).\n Its a remote job ..can convert full time after 18 months*.\n"
+  },
+  {
+    "company": "\n\nFusion Worldwide",
+    "position": "\n\nSenior Software Developer\n\nnew",
     "location": "Boston, MA",
     "salary": "",
     "age": "Today",
-    "description": "\n \n Find and help fix bugs and stability/scalability issues in a very time critical environment.\n The ideal candidate will have excellent coding skills, be…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n Providing guidance and leadership in collaboration with other senior members of the team, which will include providing software design input, asking product…\n"
   },
   {
-    "company": "\n\nBoston University",
-    "position": "\n\nLABORATORY SPECIALIST I,ENG Electrical & Computer Engineerin...\n\nnew",
-    "location": "Boston, MA 02215 (Kenmore area)",
-    "salary": "",
-    "age": "Today",
-    "description": "\n \n The individual will make use of computational tools and automated hardware to perform RNA-related procedures, such as RNA inactivation, extraction, purification…\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
-  },
-  {
-    "company": "\n\nMedidata Solutions",
-    "position": "\n\nSite Reliability Engineer (Remote)\n\nnew",
-    "location": "Boston, MA",
-    "salary": "",
-    "age": "Today",
-    "description": "\n \n Apply good technical practices such as re-factoring, continuous integration, test automation, source code control and review.\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
-  },
-  {
-    "company": "\n\nMedidata Solutions",
-    "position": "\n\nStaff Applications Engineer - Site Reliability Engineering (...\n\nnew",
-    "location": "Boston, MA",
-    "salary": "",
-    "age": "Today",
-    "description": "\n \n Apply good technical practices such as re-factoring, continuous integration, test automation, source code control and review.\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
-  },
-  {
-    "company": "\n\nEpsilon",
-    "position": "\n\nPrincipal Software Engineer\n\nnew",
+    "company": "\nCubic Corporation",
+    "position": "\n\nSenior Systems Engineer (API Resource)\n\nnew",
     "location": "",
     "salary": "",
     "age": "Today",
-    "description": "\n \n We process billions of events every day using Spark and variety of AWS Services including Kinesis, Lambdas, Athena, RDS, etc.\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n Perform hardware/software integration planning and oversee activities.\n Effective written and oral communication skills.\n"
   },
   {
-    "company": "\nSiteSpect",
-    "position": "\n\nBackend Engineer\n\nnew",
-    "location": "Boston, MA 02115 (Back Bay area)",
+    "company": "\nNativ Labs, Inc",
+    "position": "\n\nMid-Level Full Stack Developer\n\nnew",
+    "location": "Boston, MA",
     "salary": "",
     "age": "Today",
-    "description": "\n \n SiteSpect is a digital optimization platform that lets you test or target your web traffic without having to change any code on your side.\n",
-    "link": "https://www.indeed.com/rc/clk?jk=3ad0a5316a8fbd82&fccid=f1f5bb987a2b72cb&vjs=3"
+    "description": "\n \n The role is for a Mid-Level Full Stack developer with a preference for experience with ReactJS and NodeJS to help us further develop our SaaS web application.\n"
+  },
+  {
+    "company": "\n\nBlueWave",
+    "position": "\n\nSenior Salesforce Software Engineer\n\nnew",
+    "location": "",
+    "salary": "",
+    "age": "Today",
+    "description": "\n \n Engages in improving software delivery through DevOps and other Agile practices.\n Collaborates within the Agile framework, fosters a team approach to software…\n"
+  },
+  {
+    "company": "\nSyrinx",
+    "position": "\n\nSenior React Developer\n\nnew",
+    "location": "Boston, MA 02108 (Back Bay-Beacon Hill area)",
+    "salary": "",
+    "age": "Today",
+    "description": "\n \n You will ensure that these components and the overall application are robust and easy to maintain.\n Therefore, a commitment to collaborative problem solving,…\n"
+  },
+  {
+    "company": "\n\nNasdaq",
+    "position": "\n\nSenior iOS Developer\n\nnew",
+    "location": "Boston, MA 02210 (South Boston area)",
+    "salary": "\n$115,000 - $120,000 a year",
+    "age": "Today",
+    "description": "\n \n Special Qualifications: Knowledge of one or more programming or scripting languages, such as C, C++, C#, .net, Java, Perl, etc., and one or more operating…\n"
+  },
+  {
+    "company": "\n\nStarry",
+    "position": "\n\nEngineering Manager, Internet Firmware Validation\n\nnew",
+    "location": "Boston, MA",
+    "salary": "",
+    "age": "Today",
+    "description": "\n \n Drive engagement amongst engineers to ship timely, high-quality releases.\n Manage a team of at least two other engineers also performing the roles above.\n"
+  },
+  {
+    "company": "\n\nCSI Tech Inc",
+    "position": "\n\nSenior Software Engineer, Front End\n\nnew",
+    "location": "",
+    "salary": "\n$120,000 - $135,000 a year",
+    "age": "Today",
+    "description": "\n \n As a Senior team member, you will also mentor junior engineers, help establish strong coding standards, recommend libraries, code enhancements and optimizations…\n"
   }
 ]

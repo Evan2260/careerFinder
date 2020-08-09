@@ -1,122 +1,137 @@
 [
   {
-    "company": "\nHuxley Financial",
-    "position": "\n\nSenior Software Engineer - Java\n\nnew",
-    "location": "Boston, MA 02109 (Central area)",
-    "salary": "\n$120,000 - $160,000 a year",
+    "company": "\nHi Marley",
+    "position": "\n\nEntry Level Software Engineer\n\nnew",
+    "location": "Boston, MA 02111 (Central area)",
+    "salary": "",
     "age": "Just posted",
-    "description": "\n \n 6+ Years of professional software development experience.\n You will be working hands on building out a real time messaging system transporting data across our…\n"
+    "description": "\n \n Competitive salary and generous stock options - we all get to own a piece of what we’re building.\n Knowledge/Academic experience with relational and document…\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\n\nHoughton Mifflin Harcourt",
+    "position": "\n\nManager Software Engineering\n\nnew",
+    "location": "Boston, MA 02110 (Downtown area)",
+    "salary": "",
+    "age": "Just posted",
+    "description": "\n \n B. The employer must develop sufficient documentation to meet its burden of proof with respect to the validity of the statements made in its LCA and the…\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\nWhiteSource",
+    "position": "\n\nTechnical Support Engineer\n\nnew",
+    "location": "Boston, MA 02110 (Central area)",
+    "salary": "",
+    "age": "Just posted",
+    "description": "\n \n Customer-oriented with outstanding communications skills in English (written and verbal).\n Experience with software development build tools (e.g. Maven, NPM,…\n",
+    "url": "indeed.com"
   },
   {
     "company": "\n\nWayfair",
-    "position": "\n\nSenior Software Engineer - Front End\n\nnew",
+    "position": "\n\nSenior Frontend Engineer\n\nnew",
     "location": "Boston, MA",
     "salary": "",
     "age": "Just posted",
-    "description": "\n \n Write thoughtful, scalable, and performant React, CSS, and HTML code to build and test new features that our millions of customers use to browse our site every…\n"
+    "description": "\n \n Collaborate with backend engineers to develop API contracts.\n Experience working with backend engineers to develop API contracts.\n",
+    "url": "indeed.com"
   },
   {
-    "company": "\n\nGSN Games",
-    "position": "\n\nGame Designer\n\nnew",
-    "location": "Boston, MA 02110 (Downtown area)",
-    "salary": "",
-    "age": "Just posted",
-    "description": "\n \n Clearly communicate every detail of the game’s design to the team.\n Take on cash tournaments and help transform real-money gaming with WorldWinner.com and the…\n"
-  },
-  {
-    "company": "\n\nGrubhub Holdings, Inc.",
-    "position": "\n\nSr. Site Reliability Engineer\n\nnew",
-    "location": "Boston, MA 02110 (Downtown area)",
-    "salary": "",
-    "age": "Just posted",
-    "description": "\n \n Experience being embedded withing a Software Engineering team.\n Identifying and addressing shortcomings in our infrastructure.\n"
-  },
-  {
-    "company": "\n\nNotarize",
-    "position": "\n\nFront-End Engineer\n\nnew",
-    "location": "Boston, MA",
+    "company": "\nActiv Surgical, Inc.",
+    "position": "\n\nSoftware Engineer\n\nnew",
+    "location": "Boston, MA 02127 (South Boston area)",
     "salary": "",
     "age": "Today",
-    "description": "\n \n Create engaging experiences for our users.\n Design maintainable, reusable, and clean React components.\n Interface with a GraphQL server to manipulate data.\n"
+    "description": "\n \n Familiarity with Git, SVN, or other source control tools.\n Experience with noisy real-world signals.\n You will work closely with Marketing to identify unmet needs…\n",
+    "url": "indeed.com"
   },
   {
-    "company": "\nStanley David and Associates",
-    "position": "\n\nFull Stack Python Developer\n\nnew",
-    "location": "Boston, MA",
-    "salary": "\n$100,000 - $110,000 a year",
-    "age": "Today",
-    "description": "\n \n Python, UI, Angular, HTML5/CSS3, or any framework React/Bootstrap.\n Micro Services framework handson experience*.\n NoSQL databases, good to have Oracle/MongoDB.\n"
-  },
-  {
-    "company": "\nFortira Inc",
-    "position": "\n\nAWS DevOps Engineer\n\nnew",
-    "location": "",
-    "salary": "\n$70 - $80 an hour",
-    "age": "Today",
-    "description": "\n \n Support and maintain CI/CD pipeline (version control, build, unit test, deploy, scanning).\n Its a remote job ..can convert full time after 18 months*.\n"
-  },
-  {
-    "company": "\n\nFusion Worldwide",
-    "position": "\n\nSenior Software Developer\n\nnew",
-    "location": "Boston, MA",
+    "company": "\n\nUnitedHealth Group",
+    "position": "\n\nServiceNow DevOps Engineer\n\nnew",
+    "location": "Boston, MA 02298",
     "salary": "",
     "age": "Today",
-    "description": "\n \n Providing guidance and leadership in collaboration with other senior members of the team, which will include providing software design input, asking product…\n"
+    "description": "\n \n Excellent communication skills, especially being complete, precise and succinct in software design, software test and code commenting.\n",
+    "url": "indeed.com"
   },
   {
-    "company": "\nCubic Corporation",
-    "position": "\n\nSenior Systems Engineer (API Resource)\n\nnew",
-    "location": "",
-    "salary": "",
-    "age": "Today",
-    "description": "\n \n Perform hardware/software integration planning and oversee activities.\n Effective written and oral communication skills.\n"
-  },
-  {
-    "company": "\nNativ Labs, Inc",
-    "position": "\n\nMid-Level Full Stack Developer\n\nnew",
-    "location": "Boston, MA",
-    "salary": "",
-    "age": "Today",
-    "description": "\n \n The role is for a Mid-Level Full Stack developer with a preference for experience with ReactJS and NodeJS to help us further develop our SaaS web application.\n"
-  },
-  {
-    "company": "\n\nBlueWave",
-    "position": "\n\nSenior Salesforce Software Engineer\n\nnew",
-    "location": "",
-    "salary": "",
-    "age": "Today",
-    "description": "\n \n Engages in improving software delivery through DevOps and other Agile practices.\n Collaborates within the Agile framework, fosters a team approach to software…\n"
-  },
-  {
-    "company": "\nSyrinx",
-    "position": "\n\nSenior React Developer\n\nnew",
-    "location": "Boston, MA 02108 (Back Bay-Beacon Hill area)",
-    "salary": "",
-    "age": "Today",
-    "description": "\n \n You will ensure that these components and the overall application are robust and easy to maintain.\n Therefore, a commitment to collaborative problem solving,…\n"
-  },
-  {
-    "company": "\n\nNasdaq",
-    "position": "\n\nSenior iOS Developer\n\nnew",
+    "company": "\n\nPTC",
+    "position": "\n\nSoftware Development Engineer, Senior-iOS\n\nnew",
     "location": "Boston, MA 02210 (South Boston area)",
-    "salary": "\n$115,000 - $120,000 a year",
+    "salary": "",
     "age": "Today",
-    "description": "\n \n Special Qualifications: Knowledge of one or more programming or scripting languages, such as C, C++, C#, .net, Java, Perl, etc., and one or more operating…\n"
+    "description": "\n \n Participate in all phases of our software development life cycle to convert concepts and specifications into released iOS interface features.\n",
+    "url": "indeed.com"
   },
   {
-    "company": "\n\nStarry",
-    "position": "\n\nEngineering Manager, Internet Firmware Validation\n\nnew",
+    "company": "\n\nWayfair",
+    "position": "\n\nSenior Site Reliability Engineer, Logging\n\nnew",
     "location": "Boston, MA",
     "salary": "",
     "age": "Today",
-    "description": "\n \n Drive engagement amongst engineers to ship timely, high-quality releases.\n Manage a team of at least two other engineers also performing the roles above.\n"
+    "description": "\n \n Experience in one or more programming languages used in modern infrastructure paradigms (Ruby, Python, Go, PHP, etc.), as well as familiarity with version…\n",
+    "url": "indeed.com"
   },
   {
-    "company": "\n\nCSI Tech Inc",
-    "position": "\n\nSenior Software Engineer, Front End\n\nnew",
-    "location": "",
-    "salary": "\n$120,000 - $135,000 a year",
+    "company": "\n\nAmazon Dev Center U.S., Inc.",
+    "position": "\n\nSoftware Development Engineer - AWS Security\n\nnew",
+    "location": "Boston, MA",
+    "salary": "",
     "age": "Today",
-    "description": "\n \n As a Senior team member, you will also mentor junior engineers, help establish strong coding standards, recommend libraries, code enhancements and optimizations…\n"
+    "description": "\n \n Experience mentoring junior software engineers to improve their skills, and make them more effective, product software engineers.\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\nGrid Essentials",
+    "position": "\n\nWeb Developer\n\nnew",
+    "location": "Boston, MA",
+    "salary": "\n$26 - $45 an hour",
+    "age": "Today",
+    "description": "\n \n Knowledge of version control such as GitHub Repository.\n He or she will be responsible for writing and implementing efficient code, determining operational…\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\n\nHarvard Partners, LLP, Trusted Advisors to IT",
+    "position": "\n\nCloud Practice Director\n\nnew",
+    "location": "Boston, MA",
+    "salary": "",
+    "age": "Today",
+    "description": "\n \n Accountability in the ongoing development of cloud service offerings and IP to meet market needs and service development.\n Mentor and develop team members.\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\n\nRTX",
+    "position": "\n\nSoftware Engineer II - Junior\n\nnew",
+    "location": "",
+    "salary": "",
+    "age": "1 day ago",
+    "description": "\n \n Kessel Run is one of the very few software development organizations with the vision to “Deliver combat capability that can sense and respond to conflict in any…\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\nDeepgram",
+    "position": "\n\nBackend Software Engineer\n\nnew",
+    "location": "Boston, MA",
+    "salary": "",
+    "age": "1 day ago",
+    "description": "\n \n At Deepgram, you will design products powered by the latest deep learning technologies; implementing secure, robust, and scalable customer-facing services; and…\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\n\nRTX",
+    "position": "\n\nSr Software Engineer I\n\nnew",
+    "location": "",
+    "salary": "",
+    "age": "1 day ago",
+    "description": "\n \n Kessel Run is one of the very few software development organizations with the vision to “Deliver combat capability that can sense and respond to conflict in any…\n",
+    "url": "indeed.com"
+  },
+  {
+    "company": "\n\nRTX",
+    "position": "\n\nSoftware Engineer - Master\n\nnew",
+    "location": "",
+    "salary": "",
+    "age": "1 day ago",
+    "description": "\n \n Kessel Run is one of the very few software development organizations with the vision to “Deliver combat capability that can sense and respond to conflict in any…\n",
+    "url": "indeed.com"
   }
 ]
